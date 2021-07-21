@@ -1,3 +1,3 @@
 # discord
 
-This is blank readme file
+This is still a blank readme file
